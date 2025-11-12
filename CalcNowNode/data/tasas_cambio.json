@@ -1,0 +1,5 @@
+[
+    { "id": 1, "origenId": 2, "destinoId": 1, "valorTasa": 1.08, "fechaActualizacion": "2025-11-10T14:00:00Z" },
+    { "id": 2, "origenId": 1, "destinoId": 2, "valorTasa": 0.92, "fechaActualizacion": "2025-11-10T14:00:00Z" },
+    { "id": 3, "origenId": 2, "destinoId": 3, "valorTasa": 4200.00, "fechaActualizacion": "2025-11-10T14:00:00Z" }
+]
